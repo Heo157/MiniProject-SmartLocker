@@ -1,1 +1,1 @@
-# MiniProject-SmartLocker
+# SmartLocker
