@@ -18,3 +18,9 @@
 - 서보 모터 : 출입 인증이 성공하면 서보 모터가 작동하여 문을 자동으로 열어줍니다.
 
 ### 하드웨어 구성
+<img width="1007" height="584" alt="Image" src="https://github.com/user-attachments/assets/24a10dda-e810-4f96-8599-7fa3ad8238ad" />
+- 4x4 Key
+- RFID
+- LCD
+- Servo Motor
+- STM32F411RE
